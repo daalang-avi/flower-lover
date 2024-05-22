@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 100%;
+  color: #fc640c;
+}
+
+.boquet {
+  width: 628px;
+  height: 700px;
+  border-radius: 32px;
+}
+
+.hero-section {
+  display: flex;
+  gap: 133px;
+}
